@@ -2,16 +2,6 @@
 
 A simple weather forecasting application built with React and Vite, leveraging the Weather API for real-time weather data. The app also features a dynamic background that changes every minute.
 
-## Table of Contents
-
-- [Features](#features)
-- [Demo](#demo)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Environment Variables](#environment-variables)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -22,12 +12,12 @@ A simple weather forecasting application built with React and Vite, leveraging t
 
 ## Demo
 
-A live demo of the application can be found [here](#).
+
 
 ## Installation
 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/weather-forecast-app.git
+   git clone https://github.com/sum1275/Weather-App.git
    cd weather-forecast-app
