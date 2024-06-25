@@ -14,6 +14,10 @@ A simple weather forecasting application built with React and Vite, leveraging t
 
 
 
+https://github.com/sum1275/Weather-App/assets/59500999/d24e2025-9844-42c4-a80e-514f760141cc
+
+
+
 ## Installation
 
 1. **Clone the repository:**
