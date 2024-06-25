@@ -43,10 +43,11 @@ Contributions to the Weather Forecast App are welcome! If you would like to cont
     ```bash
     git checkout -b feature/your-feature-name
    
-4.**Make your changes** and commit them:
+4. **Make your changes** and commit them:
     ```bash
     git commit -am 'Add some feature'
-5.**Push** your changes to your forked repository:
+    
+5. **Push** your changes to your forked repository:
     ```bash
     git push origin feature/your-feature-name
 
