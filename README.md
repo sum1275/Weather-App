@@ -25,3 +25,7 @@ https://github.com/sum1275/Weather-App/assets/59500999/d24e2025-9844-42c4-a80e-5
    ```bash
    git clone https://github.com/sum1275/Weather-App.git
    cd weather-forecast-app
+2. **Clone the repository:**
+   ```bash
+   VITE_WEATHER_API_KEY=YOUR API KEY
+      
